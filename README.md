@@ -15,3 +15,7 @@ _Python script for kitty using [kitty-themes](https://github.com/dexpota/kitty-t
 Run theme-selector.py, and the themes will be displayed in the terminal. Write the theme's name and hit enter. Refresh kitty with 'ctrl+shift+F5'.
 
 Feel free to edit the code. If you have any suggestions, just add an issue.
+
+## Tested in:
+- Fedora
+- TODO
